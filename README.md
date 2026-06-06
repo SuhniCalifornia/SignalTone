@@ -1,3 +1,6 @@
+<div align="center">
+<img src="git-banner-signaltone.png" alt="SignalTone Banner">
+</div>
 # SignalTone
 
 SignalTone is a free and open-source Photoshop plugin for transmission-based dithering, diffusion, texture, and contamination effects.
@@ -21,7 +24,6 @@ SignalTone/
     style.css
     icon.png
     logo-84.png
-    favicon.png
 ```
 
 ## Installing For Local Testing
