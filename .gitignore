@@ -21,6 +21,7 @@ dist/
 build/
 *.zip
 *.ccx
+!SignalTone_v1.0.ccx.ccx
 
 # Local environment files
 .env
